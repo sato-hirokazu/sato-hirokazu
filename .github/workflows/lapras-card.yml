@@ -15,10 +15,10 @@ jobs:
           SHARE_ID: "CJWP9FO"
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
-          ICON_FIRST: "#030E21"
-          ICON_SECOND: "#1688BF"
-          # BACKGROUND_FIRST: "#020E27"
-          # BACKGROUND_SECOND: "#0E5593"
+          ICON_FIRST: "#212121"
+          ICON_SECOND: "#828282"
+          BACKGROUND_FIRST: "#232323"
+          BACKGROUND_SECOND: "#6d6d6d"
           # LANG: "ja"
           # CARD_WIDTH: "400"
           UPDATE_TIME: "false"
