@@ -7,9 +7,7 @@
 </a>
 <br/>
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/CJWP9FO" target="_blank" rel="noopener noreferrer"><img alt="CJWP9FOのLAPRASでのスコアは次の通りです: エンジニアリング: 3.54 / 5.0, ビジネス: 3.57 / 5.0, インフルエンス: 2.95 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.54&b=3.57&i=2.95&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>
-  <br/>
-Last Updated on 11/1/2025, 9:14:03 AM</p>
+<p align="center"><a href="https://lapras.com/public/CJWP9FO" target="_blank" rel="noopener noreferrer"><img alt="CJWP9FOのLAPRASでのスコアは次の通りです: エンジニアリング: 3.54 / 5.0, ビジネス: 3.57 / 5.0, インフルエンス: 2.95 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.54&b=3.57&i=2.95&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 <!--
 **sato-hirokazu/sato-hirokazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
